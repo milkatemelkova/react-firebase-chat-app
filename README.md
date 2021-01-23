@@ -8,12 +8,10 @@ In the project directory, you can run:
 
 ### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-The project is working when in VS code-> npm i , then npm start and it opens it in localhost:3000
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+The project is working when in VS code-> npm i , then npm start and it opens it in localhost:3000
+The firebase link: https://console.firebase.google.com/u/0/project/superchat-9f381/settings/general/web:NGUxMTY0MjQtNmZmOC00MGJmLWIyYTQtYmRkYzVmZGVkMTVh
+
 
 ### `npm test`
 
